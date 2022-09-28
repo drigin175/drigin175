@@ -8,7 +8,7 @@
 [![Gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tech.rodrigo21@gmail.com)
 
 ### • Liguagens mais utilizadas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drigin175&layout=compact)](https://github.com/drigin175/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drigin175&show_icons=true&theme=dracula)
 
 ### • Liguagens que utilizo:
 <div style="display: inline_block">
