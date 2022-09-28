@@ -1,6 +1,6 @@
 ## Olá me chamo Rodrigo Rodrigues 👨‍💻
 ##### Contato Profissional: +55 85 99661-6761
-##### E-mail Profissional: tech.rodrigo21@gmailcom
+##### E-mail Profissional: tech.rodrigo21@gmail.com
 ##### Caixa Postal: 60871-100
 #
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-rodrigues-a0bab7169/)
